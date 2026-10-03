@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">الحاسبة العلمية الفائقة</string>
+    <string name="tab_calc">علمية</string>
+    <string name="tab_calculus">تفاضل وتكامل</string>
+    <string name="tab_limits">النهايات</string>
+    <string name="tab_algebra">الجبر</string>
+    <string name="tab_geometry">الهندسة</string>
+    <string name="tab_graph">رسم بياني</string>
+    <string name="tab_ai_solver">المعلم الذكي</string>
+    <string name="clear">مسح</string>
+    <string name="all_clear">AC</string>
+    <string name="delete">حذف</string>
+    <string name="calculate">احسب</string>
+    <string name="result">النتيجة</string>
+    <string name="steps">خطوات الحل</string>
+    <string name="history">السجل</string>
+    <string name="clear_history">مسح السجل</string>
+    <string name="derivative">مشتقة</string>
+    <string name="integral">تكامل</string>
+    <string name="limits">نهاية</string>
+    <string name="quadratic">معادلة تربيعية</string>
+    <string name="linear_system">نظام معادلات خطية</string>
+    <string name="matrices">المصفوفات</string>
+    <string name="circle">الدائرة</string>
+    <string name="triangle">المثلث</string>
+    <string name="sphere">الكرة</string>
+    <string name="cylinder">الأسطوانة</string>
+    <string name="cone">المخروط</string>
+</resources>
